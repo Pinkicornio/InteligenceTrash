@@ -1,0 +1,126 @@
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.exe
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.deps.json
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.runtimeconfig.json
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.runtimeconfig.dev.json
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.dll
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.pdb
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csprojAssemblyReference.cache
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormInterface.resources
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormLogin.resources
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.Properties.Resources.resources
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.GenerateResource.cache
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.AssemblyInfo.cs
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.dll
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.pdb
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.genruntimeconfig.cache
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.CopyComplete
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormLogin - Copia.resources
+C:\Users\josep\source\repos\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormStorage.resources
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.exe
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.deps.json
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.runtimeconfig.json
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.runtimeconfig.dev.json
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.dll
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.pdb
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csprojAssemblyReference.cache
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormInterface.resources
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormLogin - Copia.resources
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormLogin.resources
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormStorage.resources
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.Properties.Resources.resources
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.GenerateResource.cache
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.AssemblyInfoInputs.cache
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.AssemblyInfo.cs
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.CoreCompileInputs.cache
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.CopyComplete
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.dll
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.pdb
+C:\Users\josepgarace\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.genruntimeconfig.cache
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.exe
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.deps.json
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.runtimeconfig.json
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.runtimeconfig.dev.json
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.dll
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.pdb
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csprojAssemblyReference.cache
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormInterface.resources
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormLogin - Copia.resources
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormLogin.resources
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormStorage.resources
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.Properties.Resources.resources
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.GenerateResource.cache
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.AssemblyInfoInputs.cache
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.AssemblyInfo.cs
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.CoreCompileInputs.cache
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.CopyComplete
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.dll
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.pdb
+E:\DAM-2\Proyecto_final\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.genruntimeconfig.cache
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csprojAssemblyReference.cache
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormInterface.resources
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormLogin - Copia.resources
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormLogin.resources
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormStorage.resources
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.Properties.Resources.resources
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.GenerateResource.cache
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.AssemblyInfo.cs
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.dll
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.pdb
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.exe
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.deps.json
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.runtimeconfig.json
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.runtimeconfig.dev.json
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.dll
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.pdb
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.CopyComplete
+C:\Users\josep\Desktop\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.genruntimeconfig.cache
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.exe
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.deps.json
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.runtimeconfig.json
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.runtimeconfig.dev.json
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.dll
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.pdb
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csprojAssemblyReference.cache
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormInterface.resources
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormLogin - Copia.resources
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormLogin.resources
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormStorage.resources
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.Properties.Resources.resources
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.GenerateResource.cache
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.AssemblyInfo.cs
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.CopyComplete
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.dll
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.pdb
+C:\Users\josep\Desktop\Proyecto terminado\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.genruntimeconfig.cache
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.exe
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.deps.json
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.runtimeconfig.json
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.runtimeconfig.dev.json
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.dll
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\PapeleraInteligente.pdb
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csprojAssemblyReference.cache
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormInterface.resources
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormLogin - Copia.resources
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormLogin.resources
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.FormStorage.resources
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.Properties.Resources.resources
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.GenerateResource.cache
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.AssemblyInfo.cs
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.csproj.CopyComplete
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.dll
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.pdb
+C:\Users\josep\Desktop\Proyecto terminado final\PapeleraInteligente\PapeleraInteligente\obj\Debug\netcoreapp3.1\PapeleraInteligente.genruntimeconfig.cache
